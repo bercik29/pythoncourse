@@ -1,2 +1,2 @@
 # pythoncourse
-tutorial to python
+My tutorial to python
