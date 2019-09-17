@@ -1,0 +1,2 @@
+https://github.com/janbodnar/Python-Course - sources
+http://zetcode.com/ - tutorial
